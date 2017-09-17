@@ -2,7 +2,8 @@
 
 ![](angles.png)
 
-Computes the average slope of lines as an angle, given the slopes of each line (as angles) in a list.
+Computes the average slope of lines as an angle, given the slope of each line (as angles) in a list.
+Note that the slope of a line can be described by an angle theta. In this way a slope of 10 degrees is equivalent to a slope of 190 degrees. This implementation takes that into consideration.
 
 ## Example
 
